@@ -1,4 +1,4 @@
-class Even_numbers
+class HundredEvenNumbers
 {
 public static void main(String[] args)
 {
